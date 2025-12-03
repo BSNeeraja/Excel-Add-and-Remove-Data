@@ -91,12 +91,5 @@ This project is a simple **Employee Management System built in Excel using VBA**
 
 ---
 
-## **Screenshots (Example)**
-| Input Sheet | OutputSheet |
-|------------|-------------|
-| ![Input Example](Screenshot (24).png) | ![Output Example](example_output.png) |
-
----
-
 ## **Conclusion**
 This project demonstrates how **Excel VBA can be used to manage employee data efficiently**, combining **automation, styling, and user-friendly prompts**. It’s a great example for anyone learning **Excel macros and data automation**.
