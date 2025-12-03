@@ -94,7 +94,7 @@ This project is a simple **Employee Management System built in Excel using VBA**
 ## **Screenshots (Example)**
 | Input Sheet | OutputSheet |
 |------------|-------------|
-| ![Input Example](example_input.png) | ![Output Example](example_output.png) |
+| ![Input Example](Screenshot (24).png) | ![Output Example](example_output.png) |
 
 ---
 
